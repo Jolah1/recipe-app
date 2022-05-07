@@ -8,7 +8,7 @@ bootstraped with React.js
 
 ### Project live link
 
-https://github.com/Jolah1/recipe-app
+https://foodrecipe99.netlify.app/
 
 ### Contributing
 
